@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,MACC,iBACD,CAEA,OACC,iBAAkB,CAClB,UAAW,CACX,SAAU,CACV,eACD","file":"main.049cca8f.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.form {\n\tposition: relative;\n}\n\n.error {\n\tposition: absolute;\n\tright: 33vw;\n\tcolor: red;\n\tfont-weight: bold;\n}\n"]}
